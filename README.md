@@ -49,3 +49,11 @@ Notes
 License
 -------
 MIT License. See LICENSE.txt.
+
+
+Setup (XAMPP)
+1) Copy the folder to `C:\xampp\htdocs\data_explorer_mvc`.
+2) Start Apache in XAMPP.
+3) Ensure `storage/` is writable.
+4) Open: http://localhost/data_explorer_mvc/public/
+
